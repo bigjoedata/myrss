@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>FreshRSS</title>
+    <dateCreated>Tue, 29 Dec 2020 00:21:24</dateCreated>
+  </head>
+  <body>
+    <outline text="Advertising">
+      <outline text="AdExchanger: News and Views on Data-Driven Digital Advertising" type="rss" xmlUrl="http://feeds.feedburner.com/ad-exchange-news" htmlUrl="https://www.adexchanger.com/" description="News and Views on Data-Driven Digital Advertising and Marketing"/>
+      <outline text="AdWeek : All News" type="rss" xmlUrl="http://feeds.adweek.com/adweek/all-news" htmlUrl="http://www.adweek.com/adweek/feeds/%2A" description="Breaking News in Advertising, Media and Technology"/>
+      <outline text="Adweek Feed" type="rss" xmlUrl="http://feeds.feedburner.com/Adfreak" htmlUrl="https://www.adweek.com/" description="Breaking News in Advertising, Media and Technology"/>
+      <outline text="eMarketer" type="rss" xmlUrl="http://feeds.emarketer.com/Articles.xml" htmlUrl="http://www.emarketer.com" description="Internet, Business &amp; Ecommerce Statistics: Email Marketing &amp; Online Market Research"/>
+      <outline text="Search Engine Land" type="rss" xmlUrl="http://feeds.searchengineland.com/searchengineland" htmlUrl="http://searchengineland.com" description="Search Engine Land's feed keeps you updated throughout the day on the latest news with Google, Yahoo, Microsoft's Bing and the world of search engine marketing, search engine optimization and search engines in general."/>
+    </outline>
+    <outline text="Data Science">
+      <outline text="Analytics Insight" type="rss" xmlUrl="http://feeds.feedburner.com/analyticsinsight/ijEZ" htmlUrl="https://www.analyticsinsight.net/" description=""/>
+      <outline text="Analytics Vidhya" type="rss" xmlUrl="https://www.analyticsvidhya.com/feed/" htmlUrl="https://www.analyticsvidhya.com/" description="Learn everything about Analytics"/>
+      <outline text="Center for Computational Biology &amp; Bioinformatics" type="rss" xmlUrl="http://compbio.ucsd.edu/outreach/data-science-blog/feed/" htmlUrl="http://compbio.ucsd.edu/" description="UC San Diego's Center for Computational Biology &amp; Bioinformatics"/>
+      <outline text="Data Science" type="rss" xmlUrl="https://www.reddit.com/r/datascience/.rss" htmlUrl="https://www.reddit.com/r/datascience/" description="A place for data science practitioners and professionals to discuss and debate data science career questions."/>
+      <outline text="Data Science Central" type="rss" xmlUrl="http://feeds.feedburner.com/FeaturedBlogPosts-DataScienceCentral" htmlUrl="http://feeds.feedburner.com/FeaturedBlogPosts-DataScienceCentral" description=""/>
+      <outline text="Information is Beautiful" type="rss" xmlUrl="http://feeds.feedburner.com/InformationIsBeautiful" htmlUrl="https://informationisbeautiful.net/" description="Distilling the world's data, information &amp; knowledge into beautiful infographics &amp; visualizations"/>
+      <outline text="Kaggle Blog - Medium" type="rss" xmlUrl="https://medium.com/feed/kaggle-blog" htmlUrl="https://medium.com/kaggle-blog?source=rss----4b0982ce16a3---4" description="Official Kaggle Blog ft. interviews from top data science competitors and more! - Medium"/>
+      <outline text="KDnuggets" type="rss" xmlUrl="http://feeds.feedburner.com/kdnuggets-data-mining-analytics" htmlUrl="http://www.kdnuggets.com" description="Machine Learning, Data Science, Big Data, Analytics, AI"/>
+      <outline text="mathbabe" type="rss" xmlUrl="https://mathbabe.org/feed/" htmlUrl="https://mathbabe.org" description="Exploring and venting about quantitative issues"/>
+      <outline text="Python and R Tips" type="rss" xmlUrl="https://cmdlinetips.com/feed/" htmlUrl="https://cmdlinetips.com/" description="Learn Data Science with Python and R"/>
+      <outline text="Towards Data Science" type="rss" xmlUrl="https://towardsdatascience.com/feed" htmlUrl="https://towardsdatascience.com/?source=rss----7f60cf5620c9---4" description="A Medium publication sharing concepts, ideas, and codes. - Medium"/>
+      <outline text="Web Analytics Action Hero" type="rss" xmlUrl="http://www.analyticshero.com/feed/" htmlUrl="http://www.analyticshero.com" description="Web Analytics, Data Storytelling, and Data-Driven Culture"/>
+    </outline>
+    <outline text="Design">
+      <outline text="A Beautiful Mess" type="rss" xmlUrl="http://feeds.feedburner.com/a_beautiful_mess" htmlUrl="https://abeautifulmess.com/" description="Crafts, Home Décor, Recipes"/>
+      <outline text="Behance Featured Projects" type="rss" xmlUrl="http://feeds.feedburner.com/behance/vorr" htmlUrl="http://www.behance.net/" description="The latest projects featured on the Behance"/>
+      <outline text="Brain Pickings" type="rss" xmlUrl="http://feeds.feedburner.com/brainpickings/rss" htmlUrl="https://www.brainpickings.org/" description="interestingness, curated."/>
+      <outline text="Co.Design" type="rss" xmlUrl="http://feeds.feedburner.com/fastcodesign/feed" htmlUrl="http://www.fastcodesign.com//www.fastcodesign.com" description="Fast Company inspires a new breed of innovative and creative thought leaders who are actively inventing the future of business."/>
+      <outline text="David duChemin" type="rss" xmlUrl="https://davidduchemin.com/feed/" htmlUrl="https://davidduchemin.com/" description="David duChemin is a photographer, author, and nomad. These are his photographs, words, and adventures. Welcome."/>
+      <outline text="designboom" type="rss" xmlUrl="https://www.designboom.com/feed/" htmlUrl="https://www.designboom.com/" description="designboom magazine | your first source for architecture, design &amp; art news"/>
+      <outline text="Design You Trust" type="rss" xmlUrl="http://feeds.feedburner.com/dyt" htmlUrl="https://designyoutrust.com/" description=""/>
+      <outline text="DIYPhotography.net" type="rss" xmlUrl="http://feeds.feedburner.com/Diyphotographynet" htmlUrl="https://www.diyphotography.net/" description="A home devoted to DIY, Photography and Lighting"/>
+      <outline text="dpreview.com" type="rss" xmlUrl="https://www.dpreview.com/feeds/news.xml" htmlUrl="https://www.dpreview.com/" description="All articles from Digital Photography Review"/>
+      <outline text="dpreview.com" type="rss" xmlUrl="https://www.dpreview.com/feeds/reviews.xml" htmlUrl="https://www.dpreview.com/reviews/" description="The latest digital camera and digital imaging reviews from Digital Photography Review."/>
+      <outline text="Envato Tuts+ Code" type="rss" xmlUrl="https://code.tutsplus.com/posts.atom" htmlUrl="https://code.tutsplus.com/" description=""/>
+      <outline text="Fast Company - co-design" type="rss" xmlUrl="https://feeds.feedburner.com/fastcodesign/feed" htmlUrl="https://www.fastcompany.com/" description="Fast Company inspires a new breed of innovative and creative thought leaders who are actively inventing the future of business."/>
+      <outline text="I Love Typography" type="rss" xmlUrl="http://feeds.feedburner.com/ILoveTypography" htmlUrl="https://ilovetypography.com/" description="the world's favorite fonts, typography, and book history blog"/>
+      <outline text="Interior Design Ideas" type="rss" xmlUrl="http://www.home-designing.com/feed" htmlUrl="http://www.home-designing.com/" description="Inspirational Interior Design Ideas"/>
+      <outline text="kottke.org" type="rss" xmlUrl="http://feeds.kottke.org/main" htmlUrl="http://kottke.org/" description="Jason Kottke's weblog, home of fine hypertext products"/>
+      <outline text="Logo Design Love" type="rss" xmlUrl="http://feeds.feedburner.com/logodesignlove" htmlUrl="https://www.logodesignlove.com/" description="on logos and brand identity design"/>
+      <outline text="Luminous Landscape" type="rss" xmlUrl="http://feeds.feedburner.com/luminous-landscape-whatsnew" htmlUrl="https://luminous-landscape.com/" description="The Photographer's Knowledge Resource"/>
+      <outline text="One Big Photo" type="rss" xmlUrl="http://feeds.feedburner.com/OneBigPhoto" htmlUrl="http://onebigphoto.com/" description="a Picture is Worth a Thousand Words | Submit Your Photo | World's Best Photography"/>
+      <outline text="PetaPixel" type="rss" xmlUrl="http://feeds.feedburner.com/PetaPixel" htmlUrl="https://petapixel.com/" description="Photography and Camera News, Reviews, and Inspiration"/>
+      <outline text="Photography Blog" type="rss" xmlUrl="http://feeds.feedburner.com/photographyblog" htmlUrl="https://www.photographyblog.com/" description="Latest news, articles and reviews from Photography Blog"/>
+      <outline text="Scott Kelby's Photoshop Insider" type="rss" xmlUrl="http://scottkelby.com/feed/" htmlUrl="https://scottkelby.com/" description="Photoshop &amp; Photography Techniques, News, Books, Reviews &amp; More"/>
+      <outline text="Signal v. Noise" type="rss" xmlUrl="http://feeds.feedburner.com/37signals/beMH" htmlUrl="https://m.signalvnoise.com/" description="Strong opinions and shared thoughts on design, business, and tech. By the makers (and friends) of &lt;a href=&quot;https://www.basecamp.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Basecamp&lt;/a&gt;. Since 1999."/>
+      <outline text="Stuck in Customs" type="rss" xmlUrl="http://feeds.feedburner.com/stuckincustoms/EmRA" htmlUrl="https://stuckincustoms.com/" description="Trey Ratcliff's Travel Photography blog with daily inspiration to motivate you!"/>
+      <outline text="The Atlantic Photo" type="rss" xmlUrl="http://feeds.feedburner.com/theatlantic/infocus" htmlUrl="https://www.theatlantic.com/photo/" description=""/>
+      <outline text="this isn't happiness." type="rss" xmlUrl="http://feeds.feedburner.com/thisisnthappiness" htmlUrl="https://thisisnthappiness.com/" description="ART, PHOTOGRAPHY, DESIGN &amp; DISAPPOINTMENT&#10;&#10;   INSTAGRAM  ★  ON WORDPRESS"/>
+      <outline text="Webdesigner Depot" type="rss" xmlUrl="http://feeds.feedburner.com/webdesignerdepot" htmlUrl="https://www.webdesignerdepot.com/" description="Web Design Resources and Tutorials"/>
+    </outline>
+    <outline text="Fun">
+      <outline text="500px:" type="rss" xmlUrl="http://feed.500px.com/500px-editors" htmlUrl="http://500px.com/editors" description="on 500px."/>
+      <outline text="Alex Ross: The Rest Is Noise" type="rss" xmlUrl="http://feeds.feedburner.com/therestisnoise" htmlUrl="https://www.therestisnoise.com/" description="Books, articles, and a blog by the music critic of The New Yorker"/>
+      <outline text="All Songs Considered : NPR" type="rss" xmlUrl="https://feeds.npr.org/15709577/rss.xml" htmlUrl="https://www.npr.org/sections/allsongs/" description="Bob Boilen and Robin Hilton spin new music from emerging bands and musical icons."/>
+      <outline text="ALTON BROWN" type="rss" xmlUrl="http://altonbrown.com/feed/" htmlUrl="http://altonbrown.com" description=""/>
+      <outline text="Apartment Therapy" type="rss" xmlUrl="https://www.apartmenttherapy.com/main.rss" htmlUrl="http://www.apartmenttherapy.com/feedburnermain" description="Saving the world, one room at a time"/>
+      <outline text="Aquarium Drunkard" type="rss" xmlUrl="http://feeds.feedburner.com/AnAquariumDrunkard" htmlUrl="https://aquariumdrunkard.com/" description="Los Angeles Based Music Journal"/>
+      <outline text="AskThePilot.com" type="rss" xmlUrl="http://askthepilot.com/feed/" htmlUrl="http://www.askthepilot.com" description="THE ULTIMATE RESOURCE SITE FOR EVERYONE WHO FLIES"/>
+      <outline text="Boing Boing" type="rss" xmlUrl="https://boingboing.net/feed" htmlUrl="https://boingboing.net/" description="A directory of mostly wonderful things"/>
+      <outline text="bookforum.com" type="rss" xmlUrl="http://www.bookforum.com/rss.xml" htmlUrl="http://www.bookforum.com/" description="News and critiques of exhibitions in the visual arts, with a contemporary focus. Includes world news, critics' picks, live symposia, interviews, archives, event calendar, and links to related sites."/>
+      <outline text="Brooklyn Based" type="rss" xmlUrl="http://brooklynbased.com/feed/" htmlUrl="http://brooklynbased.com" description="Your Guide to Brooklyn Life"/>
+      <outline text="BrooklynVegan" type="rss" xmlUrl="https://www.brooklynvegan.com/feed/atom/" htmlUrl="https://www.brooklynvegan.com/" description="Music, Photos, News and more"/>
+      <outline text="Brownstoner" type="rss" xmlUrl="http://www.brownstoner.com/feed/" htmlUrl="http://www.brownstoner.com" description="Brooklyn Inside and Out"/>
+      <outline text="Clients From Hell" type="rss" xmlUrl="https://clientsfromhell.net/feed/" htmlUrl="https://clientsfromhell.net/" description="Horror stories from freelancers"/>
+      <outline text="Complex" type="rss" xmlUrl="https://assets.complex.com/feeds/channels/all.xml" htmlUrl="https://www.complex.com/" description="Complex"/>
+      <outline text="Consequence of Sound" type="rss" xmlUrl="https://consequenceofsound.net/feed/" htmlUrl="https://consequenceofsound.net/" description="Music, Film, TV and Pop Culture News for the Mainstream and Underground"/>
+      <outline text="Crossing Broad" type="rss" xmlUrl="http://feeds.feedburner.com/CrossingBroad" htmlUrl="http://www.crossingbroad.com" description="Philly's most irreverent sports blog"/>
+      <outline text="Curbed" type="rss" xmlUrl="http://feeds.feedburner.com/curbed/BHBe" htmlUrl="http://curbed.com/" description="Love where you live"/>
+      <outline text="Dangerous Minds" type="rss" xmlUrl="http://feeds.feedburner.com/dangerousminds/dot/net" htmlUrl="https://dangerousminds.net/" description="Section for blog posts."/>
+      <outline text="Eater NY" type="rss" xmlUrl="http://feeds.feedburner.com/eater/nyc" htmlUrl="http://ny.eater.com/" description="The New York City Restaurant, Bar, and Nightlife Blog"/>
+      <outline text="Fact Magazine" type="rss" xmlUrl="https://www.factmag.com/feed/" htmlUrl="https://www.factmag.com/" description="Transmissions from the underground"/>
+      <outline text="GamesIndustry.biz" type="rss" xmlUrl="https://www.gamesindustry.biz/rss/gamesindustry_news_feed.rss" htmlUrl="https://www.gamesindustry.biz/" description="GamesIndustry.biz is the world's leading games industry website. Get insight from todays industry leaders with news, interviews and analysis of global gaming trends."/>
+      <outline text="HipHopDX News" type="rss" xmlUrl="http://feeds.feedburner.com/hiphopdx/news" htmlUrl="https://hiphopdx.com/news" description="The best HipHop News on the planet."/>
+      <outline text="io9" type="rss" xmlUrl="https://io9.gizmodo.com/rss" htmlUrl="https://io9.gizmodo.com/" description="All the top news about comics, Sci-Fi, and fantasy."/>
+      <outline text="Jalopnik" type="rss" xmlUrl="https://jalopnik.com/rss" htmlUrl="http://jalopnik.com" description="Drive Free or Die"/>
+      <outline text="Map Happy" type="rss" xmlUrl="https://maphappy.org/feed/atom/" htmlUrl="http://maphappy.org" description="Get there."/>
+      <outline text="McSweeney’s" type="rss" xmlUrl="http://feeds.feedburner.com/Mcsweeneys" htmlUrl="https://www.mcsweeneys.net/" description="Timothy McSweeney’s Internet Tendency"/>
+      <outline text="Mr. Money Mustache" type="rss" xmlUrl="http://feeds.feedburner.com/MrMoneyMustache" htmlUrl="http://www.mrmoneymustache.com" description="Early Retirement through Badassity"/>
+      <outline text="Nintendo Life" type="rss" xmlUrl="https://www.nintendolife.com/feeds/latest" htmlUrl="https://www.nintendolife.com/feeds/latest" description=""/>
+      <outline text="Pitchfork" type="rss" xmlUrl="http://pitchfork.com/feed/feed-news/rss/" htmlUrl="https://pitchfork.com/feed-news" description="News content RSS feed"/>
+      <outline text="Rock, Paper, Shotgun" type="rss" xmlUrl="http://feeds.feedburner.com/RockPaperShotgun" htmlUrl="https://www.rockpapershotgun.com" description=""/>
+      <outline text="Serious Eats: New York" type="rss" xmlUrl="http://feeds.feedburner.com/seriouseats/newyork" htmlUrl="http://newyork.seriouseats.com/" description=""/>
+      <outline text="Serious Eats: Recipes" type="rss" xmlUrl="http://feeds.feedburner.com/seriouseats/recipes" htmlUrl="http://www.seriouseats.com/recipes/" description="Our Favorite Recipes, Curated and Collected"/>
+      <outline text="Stereogum" type="rss" xmlUrl="http://feeds.feedburner.com/stereogum/cBYa" htmlUrl="https://www.stereogum.com/" description="The world's best music blog."/>
+      <outline text="Strobist" type="rss" xmlUrl="http://feeds.feedburner.com/blogspot/WOBq" htmlUrl="http://strobist.blogspot.com/" description="Learn How to Light."/>
+      <outline text="The Awl" type="rss" xmlUrl="http://feeds.feedburner.com/TheAwl" htmlUrl="http://www.theawl.com" description="Be Less Stupid"/>
+      <outline text="The Big Picture" type="rss" xmlUrl="https://www.boston.com/bigpicture/index.xml" htmlUrl="http://www.boston.com/bigpicture/" description="News Stories in Photographs from the Boston Globe."/>
+      <outline text="The Billfold" type="rss" xmlUrl="http://feeds.feedburner.com/TheBillfold" htmlUrl="http://thebillfold.com" description=""/>
+      <outline text="The FADER" type="rss" xmlUrl="http://feeds.feedburner.com/TheFaderMagazine" htmlUrl="https://www.thefader.com/" description="The FADER is the definitive voice of music and the lifestyle that surrounds it."/>
+      <outline text="The Sartorialist" type="rss" xmlUrl="http://feeds.feedburner.com/TheSartorialist" htmlUrl="http://www.thesartorialist.com" description="Just another WordPress site"/>
+      <outline text="VG247" type="rss" xmlUrl="https://www.vg247.com/feed/" htmlUrl="https://www.vg247.com/" description="VG247.com"/>
+      <outline text="Zoo With Roy" type="rss" xmlUrl="http://feeds.feedburner.com/IWantToGoToTheZooWithRoyHalladay" htmlUrl="http://www.zoowithroy.com/" description=""/>
+    </outline>
+    <outline text="Humor">
+      <outline text="xkcd.com" type="rss" xmlUrl="https://xkcd.com/rss.xml" htmlUrl="https://xkcd.com/" description="xkcd.com: A webcomic of romance and math humor."/>
+    </outline>
+    <outline text="News">
+      <outline text="Axios" type="rss" xmlUrl="https://api.axios.com/feed/" htmlUrl="https://www.axios.com/top/" description="Axios"/>
+      <outline text="BBC News - Home" type="rss" xmlUrl="http://feeds.bbci.co.uk/news/rss.xml?edition=int" htmlUrl="https://www.bbc.co.uk/news/" description="BBC News - Home"/>
+      <outline text="BBC News - World" type="rss" xmlUrl="http://feeds.bbci.co.uk/news/world/rss.xml" htmlUrl="https://www.bbc.co.uk/news/" description="BBC News - World"/>
+      <outline text="Bloomberg" type="rss" xmlUrl="http://www.newslookup.com/rss/business/bloomberg.rss" htmlUrl="http://www.bloomberg.com/" description="News feeds provided by Newslookup.com."/>
+      <outline text="Business Insider" type="rss" xmlUrl="http://feeds.feedburner.com/businessinsider" htmlUrl="https://www.businessinsider.com/" description="All Content from Business Insider for Feedburner"/>
+      <outline text="Business | The Atlantic" type="rss" xmlUrl="http://feeds.feedburner.com/AtlanticBusinessChannel" htmlUrl="https://www.theatlantic.com/business/" description=""/>
+      <outline text="CBC | Top Stories News" type="rss" xmlUrl="https://www.cbc.ca/cmlink/rss-topstories" htmlUrl="http://www.cbc.ca/news/?cmp=rss" description="FOR PERSONAL USE ONLY"/>
+      <outline text="Christian Science Monitor" type="rss" xmlUrl="https://rss.csmonitor.com/feeds/top" htmlUrl="https://www.csmonitor.com/" description="The Christian Science Monitor is an international news organization that delivers thoughtful, global coverage via its website, weekly magazine, online daily edition, and email newsletters."/>
+      <outline text="CNN.com" type="rss" xmlUrl="http://rss.cnn.com/rss/cnn_topstories" htmlUrl="https://www.cnn.com/index.html" description="CNN.com delivers up-to-the-minute news and information on the latest top stories, weather, entertainment, politics and more."/>
+      <outline text="Congress" type="rss" xmlUrl="https://rss.politico.com/congress.xml" htmlUrl="https://rss.politico.com/congress.xml" description="News, Analysis and Opinion from POLITICO"/>
+      <outline text="Datavisualization.ch" type="rss" xmlUrl="http://feeds.feedburner.com/Datavisualization" htmlUrl="http://datavisualization.ch" description="Datavisualization.ch is the premier news and knowledge resource for data visualization and infographics."/>
+      <outline text="Defense" type="rss" xmlUrl="https://rss.politico.com/defense.xml" htmlUrl="https://rss.politico.com/defense.xml" description="News, Analysis and Opinion from POLITICO"/>
+      <outline text="DER SPIEGEL - International" type="rss" xmlUrl="https://www.spiegel.de/international/index.rss" htmlUrl="https://www.spiegel.de/" description="Deutschlands führende Nachrichtenseite. Alles Wichtige aus Politik, Wirtschaft, Sport, Kultur, Wissenschaft, Technik und mehr."/>
+      <outline text="Economic Policy Institute" type="rss" xmlUrl="http://feeds.feedburner.com/epi" htmlUrl="http://www.epi.org" description="Research and Ideas for Shared Prosperity"/>
+      <outline text="Economics | The Guardian" type="rss" xmlUrl="https://www.theguardian.com/business/economics/rss" htmlUrl="https://www.theguardian.com/business/economics" description="Latest news and features from theguardian.com, the world's leading liberal voice"/>
+      <outline text="Economy" type="rss" xmlUrl="https://rss.politico.com/economy.xml" htmlUrl="https://rss.politico.com/economy.xml" description="News, Analysis and Opinion from POLITICO"/>
+      <outline text="Energy &amp; Environment" type="rss" xmlUrl="https://rss.politico.com/energy.xml" htmlUrl="https://rss.politico.com/energy.xml" description="News, Analysis and Opinion from POLITICO"/>
+      <outline text="Entrepreneur" type="rss" xmlUrl="http://feeds.feedburner.com/entrepreneur/latest" htmlUrl="https://www.entrepreneur.com/latest" description="The latest stories from Entrepreneur."/>
+      <outline text="Everything" type="rss" xmlUrl="https://www.newyorker.com/feed/everything" htmlUrl="https://www.newyorker.com/everything" description="Channel Description"/>
+      <outline text="FactCheck.org" type="rss" xmlUrl="https://www.factcheck.org/feed/" htmlUrl="http://factcheck.org/" description="A Project of The Annenberg Public Policy Center"/>
+      <outline text="Fast Company" type="rss" xmlUrl="http://www.fastcompany.com/rss.xml" htmlUrl="http://www.fastcompany.com//www.fastcompany.com" description="Fast Company inspires a new breed of innovative and creative thought leaders who are actively inventing the future of business."/>
+      <outline text="Fast Company" type="rss" xmlUrl="http://feeds.feedburner.com/fastcompany/headlines" htmlUrl="https://www.fastcompany.com/" description="Fast Company inspires a new breed of innovative and creative thought leaders who are actively inventing the future of business."/>
+      <outline text="Felix Salmon" type="rss" xmlUrl="https://www.felixsalmon.com/feed/" htmlUrl="http://www.felixsalmon.com/" description="What I'm up to around the web"/>
+      <outline text="Financial Times International Homepage" type="rss" xmlUrl="https://www.ft.com/?edition=international&amp;format=rss" htmlUrl="https://www.ft.com/" description="International homepage"/>
+      <outline text="FlowingData" type="rss" xmlUrl="https://flowingdata.com/feed/" htmlUrl="http://flowingdata.com" description="Strength in Numbers"/>
+      <outline text="Forbes - Entrepreneurs" type="rss" xmlUrl="https://www.forbes.com/entrepreneurs/feed/" htmlUrl="https://www.forbes.com/entrepreneurs/" description="Forbes - Entrepreneurs"/>
+      <outline text="Foreign Policy" type="rss" xmlUrl="https://foreignpolicy.com/feed/" htmlUrl="https://foreignpolicy.com/" description="the Global Magazine of News and Ideas"/>
+      <outline text="Freakonomics" type="rss" xmlUrl="https://freakonomics.com/feed/" htmlUrl="https://freakonomics.com/" description="The hidden side of everything"/>
+      <outline text="GANNETT" type="rss" xmlUrl="http://rssfeeds.usatoday.com/usatoday-NewsTopStories" htmlUrl="https://api-internal.usatoday.com.akadns.net/" description="USATODAY - News Top Stories"/>
+      <outline text="Get Rich Slowly" type="rss" xmlUrl="http://feeds.feedburner.com/getrichslowly" htmlUrl="https://www.getrichslowly.org/" description="personal finance that makes cents"/>
+      <outline text="Gothamist" type="rss" xmlUrl="https://gothamist.com/feed" htmlUrl="https://gothamist.com/" description="The latest stories from gothamist.com"/>
+      <outline text="HBR.org" type="rss" xmlUrl="http://feeds.harvardbusiness.org/harvardbusiness" htmlUrl="http://hbr.org/" description="Practical insights, tools and resources from leading business thought leaders."/>
+      <outline text="Health Care" type="rss" xmlUrl="https://rss.politico.com/healthcare.xml" htmlUrl="https://rss.politico.com/healthcare.xml" description="News, Analysis and Opinion from POLITICO"/>
+      <outline text="HeterodoxAcademy.org" type="rss" xmlUrl="https://heterodoxacademy.org/feed/" htmlUrl="http://heterodoxacademy.org" description="HxA"/>
+      <outline text="Huddle" type="rss" xmlUrl="https://rss.politico.com/huddle.xml" htmlUrl="https://rss.politico.com/huddle_maz.xml" description="A play-by-play preview of the day's congressional news"/>
+      <outline text="Just Security" type="rss" xmlUrl="https://www.justsecurity.org/feed/" htmlUrl="https://www.justsecurity.org" description="A Forum on Law, Rights, and U.S. National Security"/>
+      <outline text="Lawfare" type="rss" xmlUrl="https://www.lawfareblog.com/feed" htmlUrl="https://lawfareblog.com/recent" description=""/>
+      <outline text="Lifehacker" type="rss" xmlUrl="https://lifehacker.com/rss" htmlUrl="http://lifehacker.com" description="Do everything better"/>
+      <outline text="Longform" type="rss" xmlUrl="https://longform.org/feed.rss" htmlUrl="http://longform.org/" description="The best non-fiction, past and present."/>
+      <outline text="MacRumors" type="rss" xmlUrl="http://feeds.macrumors.com/MacRumors-All" htmlUrl="https://www.macrumors.com/" description="Apple, iPhone, iPad, Mac News and Rumors"/>
+      <outline text="MarketWatch.com" type="rss" xmlUrl="http://feeds.marketwatch.com/marketwatch/topstories" htmlUrl="http://www.marketwatch.com/" description="MarketWatch, a leading publisher of business and financial news, offers users up-to-the minute news, investment tools, and subscription products."/>
+      <outline text="Morning Agriculture" type="rss" xmlUrl="https://rss.politico.com/morningagriculture.xml" htmlUrl="https://rss.politico.com/morningagriculture.xml" description="Delivered every Monday by 10 a.m., Weekly Agriculture examines the latest news in agriculture and food politics and policy."/>
+      <outline text="Morning Cybersecurity" type="rss" xmlUrl="https://rss.politico.com/morningcybersecurity.xml" htmlUrl="https://rss.politico.com/morningcybersecurity.xml" description="Delivered every Monday by 10 a.m., Weekly Cybersecurity examines the latest news in cybersecurity policy and politics."/>
+      <outline text="Morning Cybersecurity" type="rss" xmlUrl="http://rss.politico.com/morningcybersecurity.xml" htmlUrl="https://rss.politico.com/morningcybersecurity.xml" description="Delivered every Monday by 10 a.m., Weekly Cybersecurity examines the latest news in cybersecurity policy and politics."/>
+      <outline text="Morning Defense" type="rss" xmlUrl="https://rss.politico.com/morningdefense.xml" htmlUrl="https://rss.politico.com/morningdefense.xml" description="Delivered daily by 10 a.m., Morning Defense examines the latest news in defense policy and politics."/>
+      <outline text="Morning Education" type="rss" xmlUrl="https://rss.politico.com/morningeducation.xml" htmlUrl="https://rss.politico.com/morningeducation.xml" description="Delivered every Monday by 10 a.m., Weekly Education examines the latest news in education politics and policy."/>
+      <outline text="Morning Energy" type="rss" xmlUrl="https://rss.politico.com/morningenergy.xml" htmlUrl="https://rss.politico.com/morningenergy.xml" description="Delivered daily by 10 a.m., Morning Energy examines the latest news in energy and environmental politics and policy."/>
+      <outline text="Morning Money" type="rss" xmlUrl="https://rss.politico.com/morningmoney.xml" htmlUrl="https://rss.politico.com/morningmoney.xml" description="Delivered daily by 8 a.m., Morning Money examines the latest news in finance politics and policy."/>
+      <outline text="Morning Score" type="rss" xmlUrl="https://rss.politico.com/morningscore.xml" htmlUrl="https://rss.politico.com/morningscore.xml" description="Delivered every Monday by 10 a.m., Weekly Score is your guide to the year-round campaign cycle."/>
+      <outline text="Morning Shift" type="rss" xmlUrl="https://rss.politico.com/morningshift.xml" htmlUrl="https://rss.politico.com/morningshift.xml" description="Delivered every Monday by 10 a.m., Weekly Shift examines the latest news in employment, labor and immigration politics and policy."/>
+      <outline text="Morning Tax" type="rss" xmlUrl="https://rss.politico.com/morningtax.xml" htmlUrl="https://rss.politico.com/morningtax.xml" description="Delivered every Monday by 10 a.m., Weekly Tax examines the latest news in tax politics and policy."/>
+      <outline text="Morning Trade" type="rss" xmlUrl="https://rss.politico.com/morningtrade.xml" htmlUrl="https://rss.politico.com/morningtrade.xml" description="Delivered every Monday by 10 a.m., Weekly Trade examines the latest news in global trade politics and policy."/>
+      <outline text="Morning Transportation" type="rss" xmlUrl="https://rss.politico.com/morningtransportation.xml" htmlUrl="https://rss.politico.com/morningtransportation.xml" description="Delivered every Monday by 10 a.m., Weekly Transportation examines the latest news in transportation and infrastructure politics and policy."/>
+      <outline text="News : NPR" type="rss" xmlUrl="https://feeds.npr.org/1001/rss.xml" htmlUrl="https://www.npr.org/templates/story/story.php?storyId=1001" description="NPR news, audio, and podcasts. Coverage of breaking stories, national and world news, politics, business, science, technology, and extended coverage of major national and world events."/>
+      <outline text="Noahpinion" type="rss" xmlUrl="https://noahpinionblog.blogspot.com/feeds/posts/default" htmlUrl="http://noahpinionblog.blogspot.com/" description="This is the old Noahpinion archive. Noahpinion continues at noahpinion.substack.com"/>
+      <outline text="Opinion | The Guardian" type="rss" xmlUrl="https://www.theguardian.com/us/commentisfree/rss" htmlUrl="https://www.theguardian.com/us/commentisfree" description="Latest opinion, analysis and discussion from the Guardian. CP Scott: &quot;Comment is free, but facts are sacred&quot;"/>
+      <outline text="Paul Graham: Essays" type="rss" xmlUrl="http://www.aaronsw.com/2002/feeds/pgessays.rss" htmlUrl="http://www.paulgraham.com/" description="Scraped feed provided by aaronsw.com"/>
+      <outline text="Playbook" type="rss" xmlUrl="https://rss.politico.com/playbook.xml" htmlUrl="https://rss.politico.com/playbook.xml" description="Rated the #1 political newsletter by political professionals."/>
+      <outline text="Politico" type="rss" xmlUrl="https://www.politico.com/rss/politicopicks.xml" htmlUrl="https://www.politico.com/" description="Politics, Policy, Political News Top Stories"/>
+      <outline text="POLITICO Influence" type="rss" xmlUrl="https://rss.politico.com/politicoinfluence.xml" htmlUrl="https://rss.politico.com/politicoinfluence.xml" description="Delivered daily, Influence gives you a comprehensive rundown and analysis of all lobby hires and news on K Street."/>
+      <outline text="POLITICO Polls" type="rss" xmlUrl="https://www.politico.com/rss/polls.xml" htmlUrl="http://www.politico.com" description="POLITICO - TOP 10 Full Polls"/>
+      <outline text="POLITICO Pulse" type="rss" xmlUrl="https://rss.politico.com/politicopulse.xml" htmlUrl="https://rss.politico.com/politicopulse.xml" description="Delivered daily by 10 a.m., Pulse examines the latest news in health care politics and policy."/>
+      <outline text="Politics" type="rss" xmlUrl="https://rss.politico.com/politics-news.xml" htmlUrl="https://rss.politico.com/politics-news.xml" description="News, Analysis and Opinion from POLITICO"/>
+      <outline text="Priceonomics Blog" type="rss" xmlUrl="https://priceonomics.com/latest.rss" htmlUrl="http://priceonomics.com/" description="Latest blog posts from Priceonomics"/>
+      <outline text="Quanta Magazine" type="rss" xmlUrl="https://api.quantamagazine.org/feed/" htmlUrl="https://www.quantamagazine.org/" description="Illuminating science"/>
+      <outline text="Quartz" type="rss" xmlUrl="https://cms.qz.com/feed/" htmlUrl="http://qz.com" description="Quartz is a digitally native news outlet for the new global economy."/>
+      <outline text="Real Time Economics" type="rss" xmlUrl="http://feeds.wsjonline.com/wsj/economics/feed" htmlUrl="http://blogs.wsj.com/economics" description="Economic insight and analysis from The Wall Street Journal."/>
+      <outline text="Salon.com" type="rss" xmlUrl="https://www.salon.com/feed/" htmlUrl="https://www.salon.com/" description="In-depth news, politics, business, technology &amp; culture &gt; all_salon"/>
+      <outline text="SCOTUSblog" type="rss" xmlUrl="http://feeds.feedburner.com/scotusblog/pFXs" htmlUrl="http://www.scotusblog.com" description="SCOTUSblog is sponsored by &lt;a href=&quot;https://casetext.com/#utm_source=scotusblog&amp;utm_medium=referral&amp;utm_campaign=daily-digest-email&quot;&gt;Casetext&lt;/a&gt;, the most intelligent way to search the law."/>
+      <outline text="Slate Magazine" type="rss" xmlUrl="https://slate.com/feeds/all.rss#force_feed" htmlUrl="https://slate.com/" description="Slate RSS"/>
+      <outline text="Stratechery by Ben Thompson" type="rss" xmlUrl="http://stratechery.com/feed/" htmlUrl="https://stratechery.com" description="On the business, strategy, and impact of technology."/>
+      <outline text="The Daily Beast Latest Articles" type="rss" xmlUrl="https://feeds.thedailybeast.com/rss/articles" htmlUrl="https://www.thedailybeast.com/?via=rss&amp;source=articles" description="The Daily Beast Latest Articles"/>
+      <outline text="The Economist: Finance  economics" type="rss" xmlUrl="https://www.economist.com/feeds/print-sections/79/finance-and-economics.xml" htmlUrl="https://www.economist.com/" description="Finance  economics"/>
+      <outline text="The Guardian" type="rss" xmlUrl="https://www.theguardian.com/mostviewed/rss" htmlUrl="https://www.theguardian.com/uk" description="Latest news, sport, business, comment, analysis and reviews from the Guardian, the world's leading liberal voice"/>
+      <outline text="The Guardian" type="rss" xmlUrl="https://www.theguardian.com/uk/rss" htmlUrl="https://www.theguardian.com/uk" description="Latest news, sport, business, comment, analysis and reviews from the Guardian, the world's leading liberal voice"/>
+      <outline text="The New Republic" type="rss" xmlUrl="https://newrepublic.com/rss.xml" htmlUrl="https://newrepublic.com/" description="The New Republic"/>
+      <outline text="The Numbers Guy" type="rss" xmlUrl="http://feeds.wsjonline.com/wsj/numbersguy/feed" htmlUrl="http://blogs.wsj.com/numbersguy" description="The Wall Street Journal examines the way numbers are used, and abused."/>
+      <outline text="The world this week" type="rss" xmlUrl="http://www.economist.com/the-world-this-week/rss.xml" htmlUrl="https://www.economist.com/the-world-this-week/" description=""/>
+      <outline text="TOP 10 Blogs" type="rss" xmlUrl="https://www.politico.com/rss/Top10Blogs.xml" htmlUrl="http://www.politico.comblogs//" description="POLITICO - Top 10 - Full Blog"/>
+      <outline text="Uneasy Money" type="rss" xmlUrl="https://uneasymoney.com/feed/" htmlUrl="http://uneasymoney.com" description="Commentary on monetary policy in the spirit of R. G. Hawtrey"/>
+      <outline text="US news | The Guardian" type="rss" xmlUrl="https://www.theguardian.com/us-news/rss" htmlUrl="https://www.theguardian.com/us-news" description="Latest US news, breaking news and current affairs coverage from theguardian.com"/>
+      <outline text="VICE US" type="rss" xmlUrl="https://www.vice.com/en/rss?locale=en_us" htmlUrl="https://www.vice.com/en?locale=en_us" description="RSS feed for https://www.vice.com/en"/>
+      <outline text="World news | The Guardian" type="rss" xmlUrl="https://www.theguardian.com/world/rss" htmlUrl="https://www.theguardian.com/world" description="Latest World news news, comment and analysis from the Guardian, the world's leading liberal voice"/>
+      <outline text="WSJ.com: World News" type="rss" xmlUrl="https://feeds.a.dj.com/rss/RSSWorldNews.xml" htmlUrl="http://online.wsj.com/page/2_0006.html" description="World News"/>
+      <outline text="www.telegraph.co.uk" type="rss" xmlUrl="https://www.telegraph.co.uk/rss.xml" htmlUrl="http://www.telegraph.co.uk/" description="www.telegraph.co.uk for the latest news from the UK and around the world."/>
+    </outline>
+    <outline text="News &amp;gt; NYT">
+      <outline text="Erasmus" type="rss" xmlUrl="https://www.economist.com/erasmus/rss.xml" htmlUrl="https://www.economist.com/erasmus/" description="Notes on the interplay between religion and policy, in the spirit of the Dutch Renaissance humanist and scholar"/>
+      <outline text="NYT &gt; Arts" type="rss" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/Arts.xml" htmlUrl="https://www.nytimes.com/section/arts" description=""/>
+      <outline text="NYT &gt; Automobiles" type="rss" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/Automobiles.xml" htmlUrl="https://www.nytimes.com/section/automobiles" description=""/>
+      <outline text="NYT &gt; Business" type="rss" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/Business.xml" htmlUrl="https://www.nytimes.com/section/business" description=""/>
+      <outline text="NYT &gt; Charles M. Blow" type="rss" xmlUrl="https://www.nytimes.com/svc/collections/v1/publish/www.nytimes.com/column/charles-m-blow/rss.xml" htmlUrl="https://www.nytimes.com/column/charles-m-blow" description=""/>
+      <outline text="NYT &gt; David Brooks" type="rss" xmlUrl="https://www.nytimes.com/svc/collections/v1/publish/www.nytimes.com/column/david-brooks/rss.xml" htmlUrl="https://www.nytimes.com/column/david-brooks" description=""/>
+      <outline text="NYT &gt; Frank Bruni" type="rss" xmlUrl="https://www.nytimes.com/svc/collections/v1/publish/www.nytimes.com/column/frank-bruni/rss.xml" htmlUrl="https://www.nytimes.com/column/frank-bruni" description=""/>
+      <outline text="NYT &gt; Gail Collins" type="rss" xmlUrl="https://www.nytimes.com/svc/collections/v1/publish/www.nytimes.com/column/gail-collins/rss.xml" htmlUrl="https://www.nytimes.com/column/gail-collins" description=""/>
+      <outline text="NYT &gt; Health" type="rss" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/Health.xml" htmlUrl="https://www.nytimes.com/section/health" description=""/>
+      <outline text="NYT &gt; Jobs" type="rss" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/Jobs.xml" htmlUrl="https://www.nytimes.com/section/jobs" description=""/>
+      <outline text="NYT &gt; Lens" type="rss" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/Lens.xml" htmlUrl="https://www.nytimes.com/section/lens" description=""/>
+      <outline text="NYT &gt; Maureen Dowd" type="rss" xmlUrl="https://www.nytimes.com/svc/collections/v1/publish/www.nytimes.com/column/maureen-dowd/rss.xml" htmlUrl="https://www.nytimes.com/column/maureen-dowd" description=""/>
+      <outline text="NYT &gt; Most Recent Headlines" type="rss" xmlUrl="https://content.api.nytimes.com/svc/news/v3/all/recent.rss" htmlUrl="https://content.api.nytimes.com/svc/news/v3/all/recent.rss" description=""/>
+      <outline text="NYT &gt; New York" type="rss" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/NYRegion.xml" htmlUrl="https://www.nytimes.com/section/nyregion" description=""/>
+      <outline text="NYT &gt; Nicholas Kristof" type="rss" xmlUrl="https://www.nytimes.com/svc/collections/v1/publish/www.nytimes.com/column/nicholas-kristof/rss.xml" htmlUrl="https://www.nytimes.com/column/nicholas-kristof" description=""/>
+      <outline text="NYT &gt; Opinion &gt; Sunday Review" type="rss" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/sunday-review.xml" htmlUrl="https://www.nytimes.com/section/opinion/sunday" description=""/>
+      <outline text="NYT &gt; Paul Krugman" type="rss" xmlUrl="https://www.nytimes.com/svc/collections/v1/publish/www.nytimes.com/column/paul-krugman/rss.xml" htmlUrl="https://www.nytimes.com/column/paul-krugman" description=""/>
+      <outline text="NYT &gt; Real Estate" type="rss" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/RealEstate.xml" htmlUrl="https://www.nytimes.com/section/realestate" description=""/>
+      <outline text="NYT &gt; Roger Cohen" type="rss" xmlUrl="https://www.nytimes.com/svc/collections/v1/publish/www.nytimes.com/column/roger-cohen/rss.xml" htmlUrl="https://www.nytimes.com/column/roger-cohen" description=""/>
+      <outline text="NYT &gt; Ross Douthat" type="rss" xmlUrl="https://www.nytimes.com/svc/collections/v1/publish/www.nytimes.com/column/ross-douthat/rss.xml" htmlUrl="https://www.nytimes.com/column/ross-douthat" description=""/>
+      <outline text="NYT &gt; Science" type="rss" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/Science.xml" htmlUrl="https://www.nytimes.com/section/science" description=""/>
+      <outline text="NYT &gt; Sports" type="rss" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/Sports.xml" htmlUrl="https://www.nytimes.com/section/sports" description=""/>
+      <outline text="NYT &gt; Technology" type="rss" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml" htmlUrl="https://www.nytimes.com/section/technology" description=""/>
+      <outline text="NYT &gt; Thomas L. Friedman" type="rss" xmlUrl="https://www.nytimes.com/svc/collections/v1/publish/www.nytimes.com/column/thomas-l-friedman/rss.xml" htmlUrl="https://www.nytimes.com/column/thomas-l-friedman" description=""/>
+      <outline text="NYT &gt; Top Stories" type="rss" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml" htmlUrl="https://www.nytimes.com/" description=""/>
+      <outline text="NYT &gt; Travel" type="rss" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/Travel.xml" htmlUrl="https://www.nytimes.com/section/travel" description=""/>
+      <outline text="NYT &gt; U.S. News" type="rss" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/US.xml" htmlUrl="https://www.nytimes.com/section/us" description=""/>
+    </outline>
+    <outline text="News &amp;gt; The Economist">
+      <outline text="Asia" type="rss" xmlUrl="https://www.economist.com/asia/rss.xml" htmlUrl="https://www.economist.com/asia/" description=""/>
+      <outline text="Bagehot’s notebook" type="rss" xmlUrl="https://www.economist.com/bagehots-notebook/rss.xml" htmlUrl="https://www.economist.com/bagehots-notebook/" description="Analysis of British life and politics, in the tradition of Walter Bagehot, editor of The Economist from 1861-77"/>
+      <outline text="Books &amp; arts" type="rss" xmlUrl="https://www.economist.com/books-and-arts/rss.xml" htmlUrl="https://www.economist.com/books-and-arts/" description=""/>
+      <outline text="Briefing" type="rss" xmlUrl="https://www.economist.com/briefing/rss.xml" htmlUrl="https://www.economist.com/briefing/" description=""/>
+      <outline text="Britain" type="rss" xmlUrl="https://www.economist.com/britain/rss.xml" htmlUrl="https://www.economist.com/britain/" description=""/>
+      <outline text="Business" type="rss" xmlUrl="https://www.economist.com/business/rss.xml" htmlUrl="https://www.economist.com/business/" description=""/>
+      <outline text="Buttonwood’s notebook" type="rss" xmlUrl="https://www.economist.com/buttonwoods-notebook/rss.xml" htmlUrl="https://www.economist.com/buttonwoods-notebook/" description="Analysis of the ever-changing financial markets (Wall Street trades used to take place under a Buttonwood tree)"/>
+      <outline text="China" type="rss" xmlUrl="https://www.economist.com/china/rss.xml" htmlUrl="https://www.economist.com/china/" description=""/>
+      <outline text="Democracy in America" type="rss" xmlUrl="https://www.economist.com/democracy-in-america/rss.xml" htmlUrl="https://www.economist.com/democracy-in-america/" description="Analysis of American politics, in the spirit of Alexis de Tocqueville’s eponymous study of American society"/>
+      <outline text="Economic &amp; financial indicators" type="rss" xmlUrl="https://www.economist.com/economic-and-financial-indicators/rss.xml" htmlUrl="https://www.economist.com/economic-and-financial-indicators/" description=""/>
+      <outline text="Europe" type="rss" xmlUrl="https://www.economist.com/europe/rss.xml" htmlUrl="https://www.economist.com/europe/" description=""/>
+      <outline text="Finance &amp; economics" type="rss" xmlUrl="https://www.economist.com/finance-and-economics/rss.xml" htmlUrl="https://www.economist.com/finance-and-economics/" description=""/>
+      <outline text="Free exchange" type="rss" xmlUrl="https://www.economist.com/free-exchange/rss.xml" htmlUrl="https://www.economist.com/free-exchange/" description="Our economics correspondents consider the fluctuations in the world economy, in theory and practice"/>
+      <outline text="Game theory" type="rss" xmlUrl="https://www.economist.com/game-theory/rss.xml" htmlUrl="https://www.economist.com/game-theory/" description="The politics, economics, science and statistical analysis of the games we play and watch"/>
+      <outline text="Graphic detail" type="rss" xmlUrl="https://www.economist.com/graphic-detail/rss.xml" htmlUrl="https://www.economist.com/graphic-detail/" description=""/>
+      <outline text="Gulliver" type="rss" xmlUrl="https://www.economist.com/gulliver/rss.xml" htmlUrl="https://www.economist.com/gulliver/" description="News and views to entertain and inform business travellers, and help them make the most of life on the road"/>
+      <outline text="International" type="rss" xmlUrl="https://www.economist.com/international/rss.xml" htmlUrl="https://www.economist.com/international/" description=""/>
+      <outline text="Kaffeeklatsch" type="rss" xmlUrl="https://www.economist.com/kaffeeklatsch/rss.xml" htmlUrl="https://www.economist.com/kaffeeklatsch/" description="Thoughts and opinions on the German-speaking world, in the coffee-house tradition"/>
+      <outline text="Leaders" type="rss" xmlUrl="https://www.economist.com/leaders/rss.xml" htmlUrl="https://www.economist.com/leaders/" description=""/>
+      <outline text="Letters" type="rss" xmlUrl="https://www.economist.com/letters/rss.xml" htmlUrl="https://www.economist.com/letters/" description=""/>
+      <outline text="Middle East &amp; Africa" type="rss" xmlUrl="https://www.economist.com/middle-east-and-africa/rss.xml" htmlUrl="https://www.economist.com/middle-east-and-africa/" description=""/>
+      <outline text="Obituary" type="rss" xmlUrl="https://www.economist.com/obituary/rss.xml" htmlUrl="https://www.economist.com/obituary/" description=""/>
+      <outline text="Prospero" type="rss" xmlUrl="https://www.economist.com/prospero/rss.xml" htmlUrl="https://www.economist.com/prospero/" description="An enchanting mix of literary insight and cultural commentary, in the spirit of the hero of “The Tempest”"/>
+      <outline text="Science &amp; technology" type="rss" xmlUrl="https://www.economist.com/science-and-technology/rss.xml" htmlUrl="https://www.economist.com/science-and-technology/" description=""/>
+      <outline text="Special report" type="rss" xmlUrl="https://www.economist.com/special-report/rss.xml" htmlUrl="https://www.economist.com/special-report/" description=""/>
+      <outline text="The Americas" type="rss" xmlUrl="https://www.economist.com/the-americas/rss.xml" htmlUrl="https://www.economist.com/the-americas/" description=""/>
+      <outline text="The Economist explains" type="rss" xmlUrl="https://www.economist.com/the-economist-explains/rss.xml" htmlUrl="https://www.economist.com/the-economist-explains/" description="Subjects topical and timeless, profound and peculiar, explained with The Economist's trademark clarity and brevity"/>
+      <outline text="The world this week" type="rss" xmlUrl="https://www.economist.com/the-world-this-week/rss.xml" htmlUrl="https://www.economist.com/the-world-this-week/" description=""/>
+      <outline text="United States" type="rss" xmlUrl="https://www.economist.com/united-states/rss.xml" htmlUrl="https://www.economist.com/united-states/" description=""/>
+    </outline>
+    <outline text="News &amp;gt; WaPo">
+      <outline text="Arts &amp; Entertainment" type="rss" xmlUrl="http://feeds.washingtonpost.com/rss/entertainment?itid=lk_inline_manual_52" htmlUrl="https://www.washingtonpost.com/" description="Washington Post Entertainment"/>
+      <outline text="Business" type="rss" xmlUrl="http://feeds.washingtonpost.com/rss/business?itid=lk_inline_manual_44" htmlUrl="http://www.washingtonpost.com/pb/business/" description="The source for business news and analysis. Covering economic policy, business policy, financial news, economic issues, stock market data, local business, technology and more."/>
+      <outline text="Lifestyle" type="rss" xmlUrl="http://feeds.washingtonpost.com/rss/lifestyle?itid=lk_inline_manual_47" htmlUrl="http://www.washingtonpost.com/pb/lifestyle/" description="Washington Post Lifestyle gives you the latest fashion and beauty trends, home décor pointers, food and recipe ideas and reviews, relationship advice, travel ideas, wellness tips and much more."/>
+      <outline text="National" type="rss" xmlUrl="http://feeds.washingtonpost.com/rss/national?itid=lk_inline_manual_39" htmlUrl="http://www.washingtonpost.com/pb/national/" description="The Washington Post's national news coverage. Get the latest national news, featuring national security, science and the courts. Read breaking national news headlines from across the U.S."/>
+      <outline text="Opinions" type="rss" xmlUrl="http://feeds.washingtonpost.com/rss/opinions?itid=lk_inline_manual_9" htmlUrl="http://www.washingtonpost.com/pb/opinions/" description="The Washington Post Opinions section features opinion articles, newspaper editorials and letters to the editor on the issues of the day. Offerings include the Post Partisan blog by Washington Post opinion writers, as well as political cartoons and political cartoon animations by editorial cartoonists Tom Toles and Ann Telnaes."/>
+      <outline text="Politics" type="rss" xmlUrl="http://feeds.washingtonpost.com/rss/politics?itid=lk_inline_manual_2" htmlUrl="http://www.washingtonpost.com/pb/politics/" description="Post Politics from The Washington Post is the source for political news headlines, in-depth politics coverage and political opinion, plus breaking news on the Trump administration and White House, Congress, the Supreme Court, elections and more."/>
+      <outline text="Washington Post" type="rss" xmlUrl="http://feeds.washingtonpost.com/rss/homepage/#force_feed" htmlUrl="http://www.washingtonpost.com/pb/homepage/" description="Breaking news and analysis on politics, business, world national news, entertainment more. In-depth DC, Virginia, Maryland news coverage including traffic, weather, crime, education, restaurant reviews and more."/>
+      <outline text="Washington Post National" type="rss" xmlUrl="http://feeds.washingtonpost.com/rss/national" htmlUrl="http://www.washingtonpost.com/pb/national/" description="The Washington Post's national news coverage. Get the latest national news, featuring national security, science and the courts. Read breaking national news headlines from across the U.S."/>
+      <outline text="World" type="rss" xmlUrl="http://feeds.washingtonpost.com/rss/world?itid=lk_inline_manual_43" htmlUrl="http://www.washingtonpost.com/pb/world/" description="The Washington Post World section provides information and analysis of breaking world news stories. In addition to our world news and video, Post World News offers discussions and blogs on major international news and economic issues."/>
+    </outline>
+    <outline text="Tech">
+      <outline text="9to5Google" type="rss" xmlUrl="https://9to5google.com/feed/" htmlUrl="http://9to5google.com" description="Google news, Pixel, Android, Home, Chrome OS, more"/>
+      <outline text="9to5Mac" type="rss" xmlUrl="https://9to5mac.com/feed/" htmlUrl="https://9to5mac.com/" description="Apple News &amp; Mac Rumors Breaking All Day"/>
+      <outline text="AnandTech" type="rss" xmlUrl="https://www.anandtech.com/rss/" htmlUrl="http://www.anandtech.com/" description="This channel features the latest computer hardware related articles."/>
+      <outline text="Android Central" type="rss" xmlUrl="https://www.androidcentral.com/feed" htmlUrl="http://www.androidcentral.com/" description=""/>
+      <outline text="AppleInsider News" type="rss" xmlUrl="https://appleinsider.com/rss/news/" htmlUrl="https://appleinsider.com/rss/news" description="AppleInsider News Feed"/>
+      <outline text="Ars Technica" type="rss" xmlUrl="http://feeds.arstechnica.com/arstechnica/index" htmlUrl="https://arstechnica.com/" description="Serving the Technologist for more than a decade. IT news, reviews, and analysis."/>
+      <outline text="BGR" type="rss" xmlUrl="http://feeds.feedburner.com/TheBoyGeniusReport" htmlUrl="https://bgr.com/" description="Tech and entertainment news, reviews, opinions and insights"/>
+      <outline text="Engadget" type="rss" xmlUrl="https://www.engadget.com/rss.xml" htmlUrl="http://www.engadget.com" description="Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics"/>
+      <outline text="Engadget" type="rss" xmlUrl="https://www.engadget.com/rss-full.xml" htmlUrl="https://www.engadget.com/rss-full.xml" description="Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics"/>
+      <outline text="ExtremeTech" type="rss" xmlUrl="https://www.extremetech.com/feed" htmlUrl="https://www.extremetech.com/" description="ExtremeTech is the Web's top destination for news and analysis of emerging science and technology trends, and important software, hardware, and gadgets."/>
+      <outline text="FreshRSS.org" type="rss" xmlUrl="https://freshrss.org/feeds/all.atom.xml" htmlUrl="http://freshrss.org/" description="FreshRSS, a free, self-hostable aggregator…"/>
+      <outline text="FreshRSS releases" type="rss" xmlUrl="https://github.com/FreshRSS/FreshRSS/releases.atom" htmlUrl="https://github.com/FreshRSS/FreshRSS/" description="FreshRSS releases @ GitHub"/>
+      <outline text="Gadgets – TechCrunch" type="rss" xmlUrl="http://feeds.feedburner.com/crunchgear" htmlUrl="https://techcrunch.com/" description="Startup and Technology News"/>
+      <outline text="Geekologie" type="rss" xmlUrl="https://geekologie.com/index.xml" htmlUrl="https://geekologie.com/" description=""/>
+      <outline text="gHacks Technology News" type="rss" xmlUrl="https://www.ghacks.net/feed/" htmlUrl="http://www.ghacks.net" description="The independent technology news blog"/>
+      <outline text="Hackaday" type="rss" xmlUrl="https://hackaday.com/feed/" htmlUrl="https://hackaday.com/" description="Fresh hacks every day"/>
+      <outline text="Hacker News: Best Comments" type="rss" xmlUrl="https://hnrss.org/bestcomments" htmlUrl="https://news.ycombinator.com/bestcomments" description="Hacker News RSS"/>
+      <outline text="Liliputing" type="rss" xmlUrl="http://feeds.feedburner.com/Liliputing" htmlUrl="https://liliputing.com/" description=""/>
+      <outline text="Macworld" type="rss" xmlUrl="https://www.macworld.com/index.rss" htmlUrl="https://www.macworld.com/" description=""/>
+      <outline text="Make: DIY Projects and Ideas for Makers" type="rss" xmlUrl="https://makezine.com/feed/" htmlUrl="https://makezine.com/" description=""/>
+      <outline text="Mashable" type="rss" xmlUrl="http://feeds.mashable.com/Mashable" htmlUrl="https://mashable.com/?utm_campaign=Mash-Prod-RSS-Feedburner-All-Partial&amp;utm_cid=Mash-Prod-RSS-Feedburner-All-Partial" description="Mashable is a leading source for news, information &amp; resources for the Connected Generation. Mashable reports on the importance of digital&#13;&#10;innovation and how it empowers and inspires people around the world. Mashable's 25 million monthly unique visitors and 10 million social&#13;&#10;media followers have become one of the most engaged online news communities. Founded in 2005, Mashable is headquartered in New York&#13;&#10;City with an office in San Francisco."/>
+      <outline text="MIT News - Nanoscience and nanotechnology | MIT.nano" type="rss" xmlUrl="https://news.mit.edu/rss/topic/nanotech" htmlUrl="https://news.mit.edu/rss/topic/nanotech" description="MIT news feed about: Nanoscience and nanotechnology | MIT.nano"/>
+      <outline text="MIT Technology Review" type="rss" xmlUrl="https://www.technologyreview.com/stories.rss" htmlUrl="http://www.technologyreview.com/stream/?sort=recent" description=""/>
+      <outline text="Morning Tech" type="rss" xmlUrl="https://rss.politico.com/morningtech.xml" htmlUrl="https://rss.politico.com/morningtech.xml" description="Delivered daily by 10 a.m., Morning Tech examines the latest news in technology politics and policy."/>
+      <outline text="Polygon" type="rss" xmlUrl="https://www.polygon.com/rss/index.xml" htmlUrl="http://www.polygon.com/" description=""/>
+      <outline text="SlashGear" type="rss" xmlUrl="http://feeds.slashgear.com/slashgear" htmlUrl="http://www.slashgear.com" description="The Definitive Guide to Tech and Cars"/>
+      <outline text="Smashing Magazine" type="rss" xmlUrl="https://www.smashingmagazine.com/feed/" htmlUrl="https://www.smashingmagazine.com/" description="Recent content in Articles on Smashing Magazine — For Web Designers And Developers"/>
+      <outline text="sonyalpharumors" type="rss" xmlUrl="https://www.sonyalpharumors.com/feed/" htmlUrl="http://www.sonyalpharumors.com" description="Sony Digital Camera News"/>
+      <outline text="TechCrunch" type="rss" xmlUrl="http://feeds.feedburner.com/Techcrunch" htmlUrl="http://techcrunch.com" description="TechCrunch is a group-edited blog that profiles the companies, products and events defining and transforming the new web."/>
+      <outline text="Tested" type="rss" xmlUrl="http://feeds.feedburner.com/TestedAll" htmlUrl="https://www.tested.com/" description=""/>
+      <outline text="The Gadgeteer" type="rss" xmlUrl="https://the-gadgeteer.com/feed/" htmlUrl="https://the-gadgeteer.com/" description="Gadget news and reviews since 1997!"/>
+      <outline text="The Next Web" type="rss" xmlUrl="http://feeds.feedburner.com/TheNextWeb" htmlUrl="https://thenextweb.com/" description="Original and proudly opinionated perspectives for Generation T"/>
+      <outline text="The Official Google Blog" type="rss" xmlUrl="http://feeds.feedburner.com/blogspot/MKuf" htmlUrl="http://googleblog.blogspot.com/" description="Insights from Googlers into our products, technology, and the Google culture."/>
+      <outline text="The Verge" type="rss" xmlUrl="https://www.theverge.com/rss/index.xml" htmlUrl="http://www.theverge.com/" description=""/>
+      <outline text="The Wirecutter" type="rss" xmlUrl="http://feeds.feedburner.com/TheWirecutter" htmlUrl="http://thewirecutter.com" description="A List of Great Technology"/>
+      <outline text="Uncrate" type="rss" xmlUrl="http://feeds.feedburner.com/uncrate" htmlUrl="https://uncrate.com/" description=""/>
+      <outline text="Wired" type="rss" xmlUrl="https://www.wired.com/feed/rss" htmlUrl="https://www.wired.com/" description="The latest from www.wired.com"/>
+    </outline>
+    <outline text="Uncategorized">
+      <outline text="The Flight Deal" type="rss" xmlUrl="http://feeds.feedburner.com/TheFlightDeal" htmlUrl="http://www.theflightdeal.com" description="&quot;Just because it's a great fare doesn't mean it's a great deal&quot;"/>
+    </outline>
+    <outline text="Wallabag">
+      <outline text="All feed" type="rss" xmlUrl="https://wb.factvirus.com/feed/wallabag/x7xEinNJpIrRYsm/all" htmlUrl="http://wb.factvirus.com/all/list" description="Atom feed for all entries"/>
+    </outline>
+  </body>
+</opml>
